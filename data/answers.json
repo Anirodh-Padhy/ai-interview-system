@@ -1,0 +1,7 @@
+{
+  "What is Python and its key features?": "Python is a high-level programming language known for readability, simplicity, and vast libraries.",
+  
+  "Explain overfitting.": "Overfitting occurs when a model learns training data too well and fails to generalize to new data.",
+  
+  "What is a JOIN?": "JOIN is used to combine rows from two or more tables based on a related column."
+}

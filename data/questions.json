@@ -1,0 +1,17 @@
+{
+  "python": [
+    "What is Python and its key features?",
+    "Explain list vs tuple.",
+    "What is a dictionary in Python?"
+  ],
+  "machine learning": [
+    "What is supervised learning?",
+    "Explain overfitting.",
+    "What is cross-validation?"
+  ],
+  "sql": [
+    "What is a JOIN?",
+    "Difference between WHERE and HAVING?",
+    "What is normalization?"
+  ]
+}
