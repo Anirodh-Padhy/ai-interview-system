@@ -181,8 +181,8 @@ streamlit run app/streamlit_app.py
 **Anirodh Padhy**
 
 * 💼 Aspiring AI/ML Engineer
-* 💻 GitHub: (www.linkedin.com/in/anirodh-padhy-ab3455315)
-* 🔗 LinkedIn: (https://github.com/Anirodh-Padhy)
+* 💻 GitHub: (https://github.com/Anirodh-Padhy)
+* 🔗 LinkedIn:(www.linkedin.com/in/anirodh-padhy-ab3455315)
 
 ---
 
